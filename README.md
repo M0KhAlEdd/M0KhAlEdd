@@ -1,5 +1,5 @@
 <h1>Welcome Dear<h1/>
-  <artical stayle="font-size: 12 px">
+<p>
 I am Mohamed Khaled, A graduate from faculty of computer and Artificial Intelligence, Interested in manual and automation software testing,<br>
 Hava a solid knowledge in C, C++, and Java programming languages, And a very good knowledge in Manual and automation software testing  gaining from both working exprience and courses such as:<br>
 -Introduction to Software Testing Concepts and Techniques (Mahara-Tech)
@@ -12,7 +12,7 @@ Hava a solid knowledge in C, C++, and Java programming languages, And a very goo
 -Testing framework TestNG with Page Object Model (POM)<br>
 -Behavior-driven Testing (Cucumber)<br>
 -Web Performance Testing (JMeter)<br>
-  </artical>
+  </p>
 <artical>
 I am eager to learn, and gain alot of experience in the feild of Software Testing. <br>
 </artical>
