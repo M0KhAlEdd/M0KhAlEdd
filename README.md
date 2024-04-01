@@ -1,6 +1,6 @@
 <h1>Welcome Dear<h1/>
   <artical>
-I am Mohamed Khaled, A graduate from faculty of computer and Artificial Intelligence, Interested in manual and automation software testing,/n
+I am Mohamed Khaled, A graduate from faculty of computer and Artificial Intelligence, Interested in manual and automation software testing,\n
 Hava a solid knowledge in C, C++, and Java programming languages, And a very good knowledge in Manual and automation software testing  gaining from both working exprience and courses such as:
 -Introduction to Software Testing Concepts and Techniques (Mahara-Tech)
 -ISTQB Foundation Level (Mahara-Tech)
